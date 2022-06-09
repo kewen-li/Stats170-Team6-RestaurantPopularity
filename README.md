@@ -7,5 +7,5 @@ Complete_data.csv, containing all features to train our model
 ### Code
 Samplecode.ipynb, can be run directly and demonstrates our project
 
-## HTML FIle
+### HTML File
 project.html， a html version of our project with our cell outputs
